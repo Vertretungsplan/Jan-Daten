@@ -5,23 +5,23 @@
 {
 "abk":"D",
 "name":"Deutsch"
-}
+},
 {
 "abk":"E5",
 "name":"Englisch ab Klasse 5"
 },
 {
 "abk":"F6",
-"name":"Französisch ab Klasse 7"
-}
+"name":"Französisch ab Klasse 6"
+},
 {
 "abk":"F9",
-"name":"Französisch ab Klasse9"
+"name":"Französisch ab Klasse 9"
 },
 {
 "abk":"S",
 "name":"Spanisch"
-}
+},
 {
 "abk":"L",
 "name":"Latein"
@@ -29,7 +29,7 @@
 {
 "abk":"Ku",
 "name":"Kunst"
-}
+},
 {
 "abk":"Mu",
 "name":"Musik"
@@ -44,12 +44,12 @@
 },
 {
 "abk":"ZKG",
-"name":"Geschichte Zusatz"
+"name":"Zusatzkurs Geschichte"
 },
 {
 "abk":"Erdkunde",
 "name":"Ek"
-}
+},
 {
 "abk":"Pp",
 "name":"Philosophie"
@@ -57,7 +57,7 @@
 {
 "abk":"Ew",
 "name":"Erziehungswissenschaften"
-}
+},
 {
 "abk":"Sw",
 "name":"Sozialwissenschaften"
@@ -65,7 +65,7 @@
 {
 "abk":"ZKS",
 "name":"Zusatzkurs Sozialwissenschaften"
-}
+},
 {
 "abk":"Kr",
 "name":"Katholische Religion"
@@ -73,15 +73,15 @@
 {
 "abk":"Er",
 "name":"Evangelische Religion"
-}
+},
 {
-"abk":"B",
+"abk":"Bi",
 "name":"Biologie"
 },
 {
 "abk":"Ch",
 "name":"Chemie"
-}
+},
 {
 "abk":"Ph",
 "name":"Physik"
@@ -89,7 +89,7 @@
 {
 "abk":"If",
 "name":"Informatik"
-}
+},
 {
 "abk":"Sp",
 "name":"Sport"
@@ -97,7 +97,7 @@
 {
 "abk":"VTE",
 "name":"Vertiefungsfach Englisch"
-}
+},
 {
 "abk":"VTM",
 "name":"Vertiefungsfach Mathematik"
