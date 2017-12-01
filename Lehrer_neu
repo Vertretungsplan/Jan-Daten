@@ -1,9 +1,65 @@
 {
-	"vname":"Volker",
-	"nname":"Priwitzer",
-	"mail":priwitzer@gymnasium-lechenich.de",
+	"vname":"Karin",
+	"nname":"Freiberg",
+	"mail":freiburg@gymnasium-lechenich.de",
+	"fächer":[
+		8,
+		23
+	]
+},
+{
+	"vname":"Hans-Peter",
+	"nname":"Hillebrand",
+	"mail":hillebrand@gymnasium-lechenich.de",
+	"fächer":[
+		0,
+		9,
+		22
+	]
+},
+{
+	"vname":"Ulrike",
+	"nname":"Balters",
+	"mail":balters@gymnasium-lechenich.de",
+	"fächer":[
+		20,
+		21
+	]
+},
+{
+	"vname":"Claudia",
+	"nname":"Behrensmeier",
+	"mail":behrensmeier@gymnasium-lechenich.de",
+	"fächer":[
+		23
+	]
+},
+{
+	"vname":"Nanette",
+	"nname":"Berkessel",
+	"mail":berkessel@gymnasium-lechenich.de",
+	"fächer":[
+		0,
+		20
+	]
+},
+{
+	"vname":"Renate",
+	"nname":"Block",
+	"mail":block@gymnasium-lechenich.de",
 	"fächer":[
 		1,
-		8
+		8,
+		14,
+		19
+	]
+},
+{
+	"vname":"Nina",
+	"nname":"Böllert",
+	"mail":böllert@gymnasium-lechenich.de",
+	"fächer":[
+		2,
+		5
 	]
 }
