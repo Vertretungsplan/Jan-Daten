@@ -1,7 +1,7 @@
 {
 	"vname":"Karin",
 	"nname":"Freiberg",
-	"mail":freiburg@gymnasium-lechenich.de",
+	"mail":"freiburg@gymnasium-lechenich.de",
 	"fächer":[
 		3,
 		23
@@ -10,7 +10,7 @@
 {
 	"vname":"Hans-Peter",
 	"nname":"Hillebrand",
-	"mail":hillebrand@gymnasium-lechenich.de",
+	"mail":"hillebrand@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		9,
@@ -20,7 +20,7 @@
 {
 	"vname":"Ulrike",
 	"nname":"Balters",
-	"mail":balters@gymnasium-lechenich.de",
+	"mail":"balters@gymnasium-lechenich.de",
 	"fächer":[
 		20,
 		21
@@ -29,7 +29,7 @@
 {
 	"vname":"Claudia",
 	"nname":"Behrensmeier",
-	"mail":behrensmeier@gymnasium-lechenich.de",
+	"mail":"behrensmeier@gymnasium-lechenich.de",
 	"fächer":[
 		23
 	]
@@ -37,7 +37,7 @@
 {
 	"vname":"Nanette",
 	"nname":"Berkessel",
-	"mail":berkessel@gymnasium-lechenich.de",
+	"mail":"berkessel@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		20
@@ -46,7 +46,7 @@
 {
 	"vname":"Renate",
 	"nname":"Block",
-	"mail":block@gymnasium-lechenich.de",
+	"mail":"block@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		7,
@@ -57,7 +57,7 @@
 {
 	"vname":"Nina",
 	"nname":"Böllert",
-	"mail":böllert@gymnasium-lechenich.de",
+	"mail":"böllert@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		5
@@ -66,7 +66,7 @@
 {
 	"vname":"Barbara",
 	"nname":"Degen",
-	"mail":degen@gymnasium-lechenich.de",
+	"mail":"degen@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		23
@@ -75,7 +75,7 @@
 {
 	"vname":"Uta",
 	"nname":"Denvir",
-	"mail":denivr@gymnasium-lechenich.de",
+	"mail":"denvir@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		2,
@@ -85,7 +85,7 @@
 {
 	"vname":"Natalie",
 	"nname":"Derpa",
-	"mail":derpa@gymnasium-lechenich.de",
+	"mail":"derpa@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		12
@@ -94,7 +94,7 @@
 {
 	"vname":"Verena",
 	"nname":"Ehrle",
-	"mail":ehrle@gymnasium-lechenich.de",
+	"mail":"ehrle@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		19
@@ -103,7 +103,7 @@
 {
 	"vname":"Dorothea",
 	"nname":"Ekert",
-	"mail":ekert@gymnasium-lechenich.de",
+	"mail":"ekert@gymnasium-lechenich.de",
 	"fächer":[
 		7,
 		17
@@ -112,7 +112,7 @@
 {
 	"vname":"Siegfried",
 	"nname":"Fahl",
-	"mail":fahl@gymnasium-lechenich.de",
+	"mail":"fahl@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		2,
@@ -122,7 +122,7 @@
 {
 	"vname":"Birgit",
 	"nname":"Gerz",
-	"mail":gerz@gymnasium-lechenich.de",
+	"mail":"gerz@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		17
@@ -131,7 +131,7 @@
 {
 	"vname":"Daniel",
 	"nname":"Gießmann",
-	"mail":giessman@gymnasium-lechenich.de",
+	"mail":"giessman@gymnasium-lechenich.de",
 	"fächer":[
 		12,
 		23
@@ -140,7 +140,7 @@
 {
 	"vname":"Ute",
 	"nname":"Graf",
-	"mail":graf@gymnasium-lechenich.de",
+	"mail":"graf@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		6,
@@ -150,7 +150,7 @@
 {
 	"vname":"Susanne",
 	"nname":"Hobbs",
-	"mail":hobbs@gymnasium-lechenich.de",
+	"mail":"hobbs@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		23
@@ -159,7 +159,7 @@
 {
 	"vname":"Johannes",
 	"nname":"Jung",
-	"mail":jung@gymnasium-lechenich.de",
+	"mail":"jung@gymnasium-lechenich.de",
 	"fächer":[
 		9,
 		19
@@ -168,7 +168,7 @@
 {
 	"vname":"Anja",
 	"nname":"Jünemann",
-	"mail":juenemann@gymnasium-lechenich.de",
+	"mail":"juenemann@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		2
@@ -177,7 +177,7 @@
 {
 	"vname":"Anke",
 	"nname":"Jurgeleit",
-	"mail":jurgeleit@gymnasium-lechenich.de",
+	"mail":"jurgeleit@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		9
@@ -186,7 +186,7 @@
 {
 	"vname":"Maren",
 	"nname":"Kerstiens",
-	"mail":kerstiens@gymnasium-lechenich.de",
+	"mail":"kerstiens@gymnasium-lechenich.de",
 	"fächer":[
 		12,
 		19
@@ -195,7 +195,7 @@
 {
 	"vname":"Antje",
 	"nname":"Köhr",
-	"mail":koehr@gymnasium-lechenich.de",
+	"mail":"koehr@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		14,
@@ -205,7 +205,7 @@
 {
 	"vname":"Hanna",
 	"nname":"Kolloch",
-	"mail":kolloch@gymnasium-lechenich.de",
+	"mail":"kolloch@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		23
@@ -214,7 +214,7 @@
 {
 	"vname":"Doris",
 	"nname":"Krampf",
-	"mail":krampf@gymnasium-lechenich.de",
+	"mail":"krampf@gymnasium-lechenich.de",
 	"fächer":[
 		7
 	]
@@ -222,7 +222,7 @@
 {
 	"vname":"Anke",
 	"nname":"Kraushaar",
-	"mail":kraushaar@gymnasium-lechenich.de",
+	"mail":"kraushaar@gymnasium-lechenich.de",
 	"fächer":[
 		6,
 		23
@@ -231,7 +231,7 @@
 {
 	"vname":"Nils",
 	"nname":"Kuhlmann",
-	"mail":kuhlmann@gymnasium-lechenich.de",
+	"mail":"kuhlmann@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		21
@@ -240,7 +240,7 @@
 {
 	"vname":"Kirsten",
 	"nname":"Küstner",
-	"mail":kuestner@gymnasium-lechenich.de",
+	"mail":"kuestner@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		2,
@@ -250,7 +250,7 @@
 {
 	"vname":"Rebecca",
 	"nname":"Laebe",
-	"mail":laebe@gymnasium-lechenich.de",
+	"mail":"laebe@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		2
@@ -259,7 +259,7 @@
 {
 	"vname":"Gudrun",
 	"nname":"Liedtke",
-	"mail":liedtke@gymnasium-lechenich.de",
+	"mail":"liedtke@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		18
@@ -268,7 +268,7 @@
 {
 	"vname":"Achim",
 	"nname":"Lingmann",
-	"mail":lingmann@gymnasium-lechenich.de",
+	"mail":"lingmann@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		21
@@ -277,7 +277,7 @@
 {
 	"vname":"Eva-Maria",
 	"nname":"Löbbert",
-	"mail":loebbert@gymnasium-lechenich.de",
+	"mail":"loebbert@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		3,
@@ -288,7 +288,7 @@
 {
 	"vname":"Julia",
 	"nname":"Losse",
-	"mail":losse@gymnasium-lechenich.de",
+	"mail":"losse@gymnasium-lechenich.de",
 	"fächer":[
 		3,
 		4,
@@ -298,7 +298,7 @@
 {
 	"vname":"Bodo",
 	"nname":"Marek",
-	"mail":marek@gymnasium-lechenich.de",
+	"mail":"marek@gymnasium-lechenich.de",
 	"fächer":[
 		12,
 		14,
@@ -308,7 +308,7 @@
 {
 	"vname":"Uta",
 	"nname":"Meibrink",
-	"mail":meibrink@gymnasium-lechenich.de",
+	"mail":"meibrink@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		18
@@ -317,7 +317,7 @@
 {
 	"vname":"Michael",
 	"nname":"Meyer",
-	"mail":meyer@gymnasium-lechenich.de",
+	"mail":"meyer@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		8
@@ -326,7 +326,7 @@
 {
 	"vname":"Hanno",
 	"nname":"Meyer-Barner",
-	"mail":meyer-barner@gymnasium-lechenich.de",
+	"mail":"meyer-barner@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		13
@@ -335,7 +335,7 @@
 {
 	"vname":"Christopher",
 	"nname":"Mildner",
-	"mail":mildner@gymnasium-lechenich.de",
+	"mail":"mildner@gymnasium-lechenich.de",
 	"fächer":[
 		19,
 		23
@@ -344,7 +344,7 @@
 {
 	"vname":"Peter",
 	"nname":"Neugaertner",
-	"mail":neugaertner@gymnasium-lechenich.de",
+	"mail":"neugaertner@gymnasium-lechenich.de",
 	"fächer":[
 		17,
 		19
@@ -353,7 +353,7 @@
 {
 	"vname":"Florens",
 	"nname":"Neuheuser",
-	"mail":neuheuser@gymnasium-lechenich.de",
+	"mail":"neuheuser@gymnasium-lechenich.de",
 	"fächer":[
 		8
 	]
@@ -361,7 +361,7 @@
 {
 	"vname":"Isabel",
 	"nname":"Núñez",
-	"mail":nunez@gymnasium-lechenich.de",
+	"mail":"nunez@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		5
@@ -370,7 +370,7 @@
 {
 	"vname":"Silke",
 	"nname":"Rebhan",
-	"mail":rebhan@gymnasium-lechenich.de",
+	"mail":"rebhan@gymnasium-lechenich.de",
 	"fächer":[
 		20,
 		23
@@ -379,7 +379,7 @@
 {
 	"vname":"Sabine",
 	"nname":"Rosenau",
-	"mail":rosenau@gymnasium-lechenich.de",
+	"mail":"rosenau@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		7
@@ -388,7 +388,7 @@
 {
 	"vname":"Jochen",
 	"nname":"Schindler",
-	"mail":schindler@gymnasium-lechenich.de",
+	"mail":"schindler@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		9
@@ -397,7 +397,7 @@
 {
 	"vname":"Kristina",
 	"nname":"Schmalenbach",
-	"mail":schmalenbach@gymnasium-lechenich.de",
+	"mail":"schmalenbach@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		5
@@ -406,7 +406,7 @@
 {
 	"vname":"Kathryn",
 	"nname":"Schulte",
-	"mail":schulte@gymnasium-lechenich.de",
+	"mail":"schulte@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		14
@@ -415,7 +415,7 @@
 {
 	"vname":"Corinna",
 	"nname":"Tietze",
-	"mail":tietze@gymnasium-lechenich.de",
+	"mail":"tietze@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		7,
@@ -425,7 +425,7 @@
 {
 	"vname":"Simone",
 	"nname":"Thomala",
-	"mail":thomala@gymnasium-lechenich.de",
+	"mail":"thomala@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		12,
@@ -435,7 +435,7 @@
 {
 	"vname":"Astrid",
 	"nname":"Wendland",
-	"mail":wendland@gymnasium-lechenich.de",
+	"mail":"wendland@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		3,
@@ -445,7 +445,7 @@
 {
 	"vname":"Michaela",
 	"nname":"Wolter",
-	"mail":wolter@gymnasium-lechenich.de",
+	"mail":"wolter@gymnasium-lechenich.de",
 	"fächer":[
 		3,
 		4,
@@ -455,7 +455,7 @@
 {
 	"vname":"Ralf",
 	"nname":"Zieße",
-	"mail":ziesse@gymnasium-lechenich.de",
+	"mail":"ziesse@gymnasium-lechenich.de",
 	"fächer":[
 		15,
 		23
@@ -464,7 +464,7 @@
 {
 	"vname":"Herbert",
 	"nname":"Zimmermann",
-	"mail":freiburg@gymnasium-lechenich.de",
+	"mail":"zimmermann@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		6
@@ -473,7 +473,7 @@
 {
 	"vname":"Benjamin",
 	"nname":"Bartels",
-	"mail":bartels@gymnasium-lechenich.de",
+	"mail":"bartels@gymnasium-lechenich.de",
 	"fächer":[
 		9,
 		13
@@ -482,7 +482,7 @@
 {
 	"vname":"Tamina",
 	"nname":"Ellmann",
-	"mail":ellmann@gymnasium-lechenich.de",
+	"mail":"ellmann@gymnasium-lechenich.de",
 	"fächer":[
 		2,
 		17
@@ -491,7 +491,7 @@
 {
 	"vname":"Nicolai",
 	"nname":"Gerwald",
-	"mail":gerwald@gymnasium-lechenich.de",
+	"mail":"gerwald@gymnasium-lechenich.de",
 	"fächer":[
 		17,
 		23
@@ -500,7 +500,7 @@
 {
 	"vname":"Christopher",
 	"nname":"Gralka",
-	"mail":gralka@gymnasium-lechenich.de",
+	"mail":"gralka@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		2
@@ -509,7 +509,7 @@
 {
 	"vname":"Domenik",
 	"nname":"Naumann",
-	"mail":naumann@gymnasium-lechenich.de",
+	"mail":"naumann@gymnasium-lechenich.de",
 	"fächer":[
 		9,
 		23
@@ -518,7 +518,7 @@
 {
 	"vname":"Janina",
 	"nname":"Pilkahn",
-	"mail":pilkahn@gymnasium-lechenich.de",
+	"mail":"pilkahn@gymnasium-lechenich.de",
 	"fächer":[
 		12,
 		19
@@ -527,7 +527,7 @@
 {
 	"vname":"Marlene",
 	"nname":"Schulte",
-	"mail":schulte1@gymnasium-lechenich.de",
+	"mail":"schulte1@gymnasium-lechenich.de",
 	"fächer":[
 		1,
 		17
@@ -536,9 +536,9 @@
 {
 	"vname":"Markus",
 	"nname":"Stupp",
-	"mail":stupp@gymnasium-lechenich.de",
+	"mail":"stupp@gymnasium-lechenich.de",
 	"fächer":[
 		0,
 		15
 	]
-},
+}
